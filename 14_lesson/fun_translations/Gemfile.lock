@@ -1,0 +1,42 @@
+PATH
+  remote: .
+  specs:
+    fun_translations (0.0.1)
+      faraday (~> 2.6)
+      zeitwerk (~> 2.4)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    base64 (0.2.0)
+    diff-lcs (1.5.1)
+    faraday (2.8.1)
+      base64
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
+    rspec (3.13.0)
+      rspec-core (~> 3.13.0)
+      rspec-expectations (~> 3.13.0)
+      rspec-mocks (~> 3.13.0)
+    rspec-core (3.13.1)
+      rspec-support (~> 3.13.0)
+    rspec-expectations (3.13.3)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-mocks (3.13.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-support (3.13.1)
+    ruby2_keywords (0.0.5)
+    zeitwerk (2.6.18)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  fun_translations!
+  rspec (~> 3.6)
+
+BUNDLED WITH
+   2.2.5
