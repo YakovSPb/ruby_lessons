@@ -11,6 +11,9 @@ module FunTranslations
         private
 
         def respond_with(raw_response)
+
+
+
            body = raw_response.body.empty? ?
             raw_response.body: JSON.parse(raw_response.body)
 
@@ -20,6 +23,9 @@ module FunTranslations
         end
 
         def respond_with_error(code, body)
+            raise(FunTranslations::Error, body) unless FunTranslations::Error:ERRORS.key?(code)
+            
+            raise FunTranslations::Error::ERRORS[code].from_response(body)
         end
     end
 end
