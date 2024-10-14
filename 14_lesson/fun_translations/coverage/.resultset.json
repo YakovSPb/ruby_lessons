@@ -1,0 +1,143 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          3,
+          null,
+          null
+        ]
+      },
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations/request.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          3,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations/connection.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          3,
+          3,
+          3,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          3,
+          null,
+          null,
+          null,
+          null,
+          3,
+          null,
+          null,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations/client.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          3,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations/translation.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/yakov/Рабочий стол/Projects/ruby/14_lesson/fun_translations/lib/fun_translations/version.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1728935663
+  }
+}

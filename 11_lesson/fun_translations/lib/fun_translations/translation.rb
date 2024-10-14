@@ -1,6 +1,6 @@
 module FunTranslations
     class Translation
-        att_reader :translate_text, :original_text, :translation, :audio, :speed, :tone
+        attr_reader :translate_text, :original_text, :translation, :audio, :speed, :tone
 
         def initialize(raw_translation)
             if raw_translation.respond_to?(:key?) && raw_translation['translated'].key?('audio')
